@@ -1,4 +1,4 @@
-## Cody Buell
+# Cody Buell
 
 Full stack engineer. I build the software, the infrastructure it runs on,
 and the teams that keep it going.
